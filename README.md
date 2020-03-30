@@ -1,2 +1,5 @@
 # PCA_matlab_tutorial
- A step-by-step tutorial of PCA
+ Matlab demos of a step-by-step tutorial of PCA.
+
+# More information:
+2kiloapple.net/pca
